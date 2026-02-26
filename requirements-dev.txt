@@ -1,0 +1,6 @@
+# Development dependencies
+pytest
+pytest-mock
+
+# Production dependencies
+# ... (existing production dependencies)
